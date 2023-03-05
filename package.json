@@ -1,0 +1,21 @@
+{
+  "name": "string-manipulations",
+  "version": "1.0.0",
+  "description": "A collection of string manipulation functions",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "string",
+    "manipulation",
+    "utility",
+    "tool",
+    "javascript"
+  ],
+  "author": "Christopher Debray",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CDebray1410/string-manipulations.git"
+  }
+}
