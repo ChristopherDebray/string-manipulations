@@ -1,5 +1,5 @@
 {
-  "name": "string-manipulations",
+  "name": "@christopher_debray/string-manipulations",
   "version": "1.0.0",
   "description": "A collection of string manipulation functions",
   "main": "index.js",
