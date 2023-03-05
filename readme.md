@@ -1,17 +1,17 @@
-# string-manipulations
+# @christopher_debray/string-manipulations
 
-`string-manipulations` is a lightweight JavaScript library that provides a collection of functions for manipulating strings.
+`@christopher_debray/string-manipulations` is a lightweight JavaScript library that provides a collection of functions for manipulating strings.
 
 ## Installation
 
-You can install the `string-manipulations` module using NPM:
+You can install the `@christopher_debray/string-manipulations` module using NPM:
 
 ## Usage
 
-To use the `string-manipulations` module in your JavaScript project, simply import the module and call the desired functions:
+To use the `@christopher_debray/string-manipulations` module in your JavaScript project, simply import the module and call the desired functions:
 
 ```javascript
-const stringUtils = require('string-manipulations');
+const stringUtils = require('@christopher_debray/string-manipulations');
 
 const string = 'hello world';
 
@@ -53,4 +53,4 @@ Checks if a string contains another string.
 Replaces all occurrences of a substring with another string.
 
 ## License
-string-manipulations is licensed under the ISC License. See the LICENSE file for details.
+@christopher_debray/string-manipulations is licensed under the ISC License. See the LICENSE file for details.
